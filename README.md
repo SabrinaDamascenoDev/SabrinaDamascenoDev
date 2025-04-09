@@ -3,7 +3,7 @@
 
 - 🤔 Exploring new technologies.
 - 🎓 Studying Information Systems at UFC.
-- 🌱 Learning Java, Python, and JavaScript.
+- 🌱 Learning Java, Python, go and JavaScript.
 
 ## My Skills
 
