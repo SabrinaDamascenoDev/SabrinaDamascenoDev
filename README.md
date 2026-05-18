@@ -92,7 +92,7 @@ Working On:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaDamascenoDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaDamascenoDevR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaDamascenoDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
 
 </div>
 
