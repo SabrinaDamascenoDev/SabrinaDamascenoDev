@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Information+Systems+Student;FastAPI+%7C+Next.js+%7C+TypeScript;Building+modern+applications;Always+learning+new+technologies+%F0%9F%9A%80" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR5Z3B3MnBzZmI1NmNqZW8wbTQ1cnllYmQ3YTI1eTViN2pkYXBxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="250"/>
-
 </div>
 
 ---
