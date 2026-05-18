@@ -1,42 +1,69 @@
-## Hello World!! ##
-## About me
+# < Hello World!! />
 
-- 🤔 Exploring new technologies.
-- 🎓 Studying Information Systems at UFC.
-- 🌱 Learning Java, Python, go and JavaScript.
+## 👩‍💻 About Me
 
-## My Skills
+- 🚀 Exploring new technologies and building scalable software solutions.
+- 🎓 Information Systems student at UFC Quixadá.
+- 💡 Passionate about backend development, web applications, software architecture, and UI/UX.
+- 🌱 Currently improving my skills in distributed systems, APIs, automation, and modern frontend technologies.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+## 🛠 Tech Stack
 
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-ff69b4?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white)
 
-<br/>
+---
 
-<a href="https://github.com/SabrinaDamascenoDev" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaDamascenoDev&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/SabrinaDamascenoDev" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaDamascenoDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</a>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=ff69b4)
+![Next JS](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=ff69b4)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff69b4)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=ff69b4)
 
-## Find me
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/sabrina-damasceno-4a81a0265)
+### ⚙ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=ff69b4)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=ff69b4)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=ff69b4)
+
+---
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=ff69b4)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=ff69b4)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=ff69b4)
+
+---
+
+### 🧪 Testing & Tools
+![Playwright](https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=playwright&logoColor=ff69b4)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ff69b4)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=ff69b4)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=ff69b4)
+
+---
+
+## ✨ Interests
+
+- Backend Engineering
+- REST APIs
+- Software Architecture
+- UI/UX Design
+- DevOps & Automation
+- Artificial Intelligence
+
+---
+
+<div align="center">
+
+### 💖 “Code. Create. Innovate.”
+
+</div>
