@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ 𝑺𝒂𝒃𝒓𝒊𝒏𝒂 𝑨𝒍𝒗𝒆𝒔 ✦
+# ✦ 𝑺𝒂𝒃𝒓𝒊𝒏𝒂 Damasceno ✦
 
 ### `Backend Developer` • `Frontend Developer` • `UI/UX Enthusiast`
 
@@ -90,9 +90,9 @@ Working On:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrinaDamascenoDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaDamascenoDevR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
 
 </div>
 
